@@ -1,0 +1,118 @@
+﻿---MOVIES---
+1^Godfather Part I^Crime^1972^175^N
+2^Forrest Gump^RomCom^1994^142^N
+3^The Shawshank Redemption^Prison^1994^142^N
+4^The Dark Knight^Superheroes^2008^152^N
+5^Schindler's List^War^1993^195^N
+6^The Lord of the Rings: The Return of the King^Fantasy^2003^201^N
+7^The Godfather Part II^Crime^1974^202^N
+8^12 Angry Men^Horror^1957^96^N
+9^Pulp Fiction^Crime^1994^154^N
+10^Fight Club^Drama^1999^139^N
+11^Inception^Sci-Fi^2010^148^N
+12^The Lord of the Rings: The Fellowship of the Ring^Fantasy^2001^178^N
+13^Oppenheimer^Sci-Fi^2023^180^N
+14^Seven^Crime^1995^127^N
+15^Zodiac^Mystery^2007^200^N
+16^Interstellar^Sci-Fi^2014^169^N
+17^Geostorm^Sci-Fi^2017^109^N
+18^Gravity^Sci-Fi^2013^91^N
+19^Murder on the Orient Express^Mystery^2017^114^N
+20^Death on the Nile^Mystery^2022^167^N
+21^Top Gun^Action^1986^110^N
+22^Top Gun: Maverick^Action^2022^171^N
+23^Mission: Impossible^Action^1996^110^N
+24^Mission: Impossible 2^Action^2000^123^N
+25^Mission: Impossible 3^Action^2006^126^N
+26^Mission: Impossible-Ghost Protocol^Action^2011^133^N
+27^Mission: Impossible-Rogue Nation^Action^2015^131^N
+28^Mission: Impossible-Fallout^Action^2018^148^N
+29^Mission: Impossible-Dead Reckoning Part One^Action^2023^163^N
+30^Tenet^Sci-Fi^2020^150^N
+31^Requiem for a Dream^Psychological thriller^2000^102^N
+
+---TVSHOW---
+1^Narcos S01^Drama^2015^10^49^0^N
+2^Narcos S02^Drama^2015^10^49^0^N
+3^Narcos S03^Drama^2015^10^49^0^N
+4^The Witcher S01^Action^2019^8^60^0^N
+5^The Witcher S02^Action^2019^8^60^0^N
+6^The Witcher S03^Action^2019^8^60^0^N
+7^Parasyte: The Maxim S01^Drama^2014^24^20^0^N
+8^The Last Of Us S01^Adventure^2023^9^60^0^N
+9^The Mandalorian S01^Fantasy^2019^8^40^0^N
+10^The Mandalorian S02^Fantasy^2019^8^40^0^N
+11^The Mandalorian S03^Fantasy^2019^8^40^0^N
+12^Peaky Blinders S01^Crime^2013^6^60^0^N
+13^Peaky Blinders S02^Crime^2013^6^60^0^N
+14^Peaky Blinders S03^Crime^2013^6^60^0^N
+15^Peaky Blinders S04^Crime^2013^6^60^0^N
+16^Peaky Blinders S05^Crime^2013^6^60^0^N
+17^Peaky Blinders S06^Crime^2013^6^60^0^N
+18^Wandavision S01^Action^2021^9^40^0^N
+19^Shingeki No Kyojin S01^Adventure^2013^25^20^0^N
+20^Shingeki No Kyojin S02^Adventure^2013^12^20^0^N
+21^Shingeki No Kyojin S03^Adventure^2013^22^20^0^N
+22^Shingeki No Kyojin S04^Adventure^2013^30^20^0^N
+23^Kimetsu No Yaiba S01^Action^2019^26^20^0^N
+24^Kimetsu No Yaiba S02^Action^2019^18^20^0^N
+25^Kimetsu No Yaiba S03^Action^2019^11^20^0^N
+26^Chernobyl S01^History^2019^5^66^0^N
+27^Alchemy Of Souls S01^Fantasy^2022^20^60^0^N
+28^Alchemy Of Souls S02^Fantasy^2022^10^60^0^N
+29^Extraordinary Attorney Woo S01^Legal Drama^2022^16^70^0^N
+30^Moving S01^Action SciFi^2023^20^50^0^N
+31^Mr. Sunshine S01^Historical^2018^24^80^0^N
+32^Descendents Of The Sun S01^Action Romance^2016^16^70^0^N
+33^Goblin S01^Fantasy^2016^16^70^0^N
+34^It's Okay to Not Be Okay S01^Romantic comedy^2020^16^75^0^N
+35^Flower of Evil S01^Crime Mystery^2020^16^70^0^N
+36^Beyond Evil S01^Psychological Thriller^2021^16^70^0^N
+37^Hospital Playlist S01^Medical Slice-of-life Comedy^2020^12^100^0^N
+38^Hospital Playlist S02^Medical Slice-of-life Comedy^2021^12^100^0^N
+39^Mouse S01^Crime Thriller^2021^20^70^0^N
+40^Hell Is Other People S01^Psychological Thriller^2019^10^60^0^N
+41^Bad And Crazy S01^Action^2021^12^60^0^N
+42^Law School S01^Legal Drama^2021^16^65^0^N
+43^Friends S01^Sitcom^1994^24^24^0^N
+44^Friends S02^Sitcom^1994^24^20^0^N
+45^Friends S03^Sitcom^1994^25^20^0^N
+46^Friends S04^Sitcom^1994^24^20^0^N
+47^Friends S05^Sitcom^1994^24^20^0^N
+48^Friends S06^Sitcom^1994^25^20^0^N
+49^Friends S07^Sitcom^1994^24^20^0^N
+50^Friends S08^Sitcom^1994^24^20^0^N
+51^Friends S09^Sitcom^1994^24^20^0^N
+52^Friends S10^Sitcom^1994^17^20^0^N
+53^Game Of Thrones S01^Drama^2011^10^55^0^N
+54^Game Of Thrones S02^Drama^2011^10^55^0^N
+55^Game Of Thrones S03^Drama^2011^10^55^0^N
+56^Game Of Thrones S04^Drama^2011^10^55^0^N
+57^Game Of Thrones S05^Drama^2011^10^10^0^N
+58^Game Of Thrones S06^Drama^2011^10^55^0^N
+59^Game Of Thrones S07^Drama^2011^7^55^0^N
+60^Game Of Thrones S08^Drama^2011^6^55^0^N
+61^Vinland Saga S01^Anime^2018^24^22^0^N
+62^Vinland Saga S02^Anime^2023^24^22^0^N
+
+---BOOKS---
+1^Harry Potter and the Philosopher's Stone^Children^1997^17^223^0^J.K Rowling^N
+2^Harry Potter and the Chamber of Secrets^Children^1998^18^251^0^J.K Rowling^N
+3^Harry Potter and the Prisoner of Azkaban^Children^1999^22^317^0^J.K Rowling^N
+4^Harry Potter and the Goblet of Fire^Children^2000^37^636^0^J.K Rowling^N
+5^Harry Potter and the Order of the Phoenix^Children^2003^38^766^0^J.K Rowling^N
+6^Harry Potter and the Half-Blood Prince^Children^2005^30^607^0^J.K Rowling^N
+7^Harry Potter and the Deathly Hallows^Children^2007^37^607^0^J.K Rowling^N
+8^Good Girl's Guide to Murder^Mystery^2019^48^400^0^Holly Jackson^N
+9^The Diary of a Young Girl^Biography^1947^13^280^0^Anne Frank^N
+10^Before Coffee Gets Cold^Magical Realism^2015^4^272^0^Toshikazu Kawaguchi^N
+11^No Longer Human^Fiction^1948^3^176^0^Osamu Dazai^N
+12^1984^Sci-Fi^1949^23^328^0^George Orwell^N
+13^Rich Dad Poor Dad^Personal finance^1997^10^336^0^Robert Kiyosaki and Sharon Lechter^N
+14^Atomic Habits^Self-help^2018^17^320^0^James Clear^N
+15^The Art of Thinking Clearly^Self-help^2013^99^384^0^Rolf Dobelli^N
+16^Think and Grow Rich^Self-help^1937^15^238^0^Napoleon Hill^N
+17^A Brief History Of Time^Popular Science^1988^12^240^0^Stephen Hawking^N
+18^The Grand Design^Popular Science^2010^8^208^0^Stephen Hawkingand Leonard Mlodinow^N
+19^Elon Musk: Tesla, Space X, and the Quest for a Fantastic Future^Biography^2015^11^416^0^Ashlee Vance^N
+20^Ikigai: The Japanese Secret to a Long and Happy Life^Self-help^2016^12^208^0^Francesc Miralles and Hector Garcia^N
